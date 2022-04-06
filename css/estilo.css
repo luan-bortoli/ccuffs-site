@@ -1,0 +1,38 @@
+.imagem-principal{
+	width: 300px;
+}
+
+.bandeiras{
+	width: 150px;
+	margin: 5px;
+}
+
+.brasao{
+	width: 200px;
+	margin: 0px;
+}
+
+.musica{
+	height: 215px;
+	width: 460px;
+	margin: 5px;
+}
+
+.apresentacao{
+	margin-top: 100px;
+	position: relative;
+}
+
+.icones{
+	margin: 2px;
+	width: auto;
+	height: 30px;
+}
+
+body {
+	background-color: #dcdcdc;
+}
+
+li {
+  list-style-type: none;
+}
